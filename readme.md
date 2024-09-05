@@ -20,6 +20,7 @@ A program to get familiar with variables showing and SOS morse coded massage thr
 A binary counter, counting from 0 to 15! The image of the circuit, as well as the arduino code and the circuit in json format (if you'd like to use [Wowki](https://wokwi.com/)) are all attached in the corresponding directory.
 
 - [`04.analog_write`](https://github.com/ShayanShahrabi/Arduino/tree/main/04.analog_write)
+
 Up until now the codes only used digital writes, witch defines weather there is a current or not (a binary input), but now the code uses an analog write! So the input/output values can range from 0 to 255
 
 
