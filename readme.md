@@ -23,6 +23,10 @@ A binary counter, counting from 0 to 15! The image of the circuit, as well as th
 
 Up until now the codes only used digital writes, witch defines weather there is a current or not (a binary input), but now the code uses an analog write! So the input/output values can range from 0 to 255
 
+- [`05.serial_printer`](https://github.com/ShayanShahrabi/Arduino/tree/main/05.serial_printer)
+
+Having fun with the board's `Serial.print` syntax!
+
 
 ## Rsources
 - [The official book that comes with the starter kit](https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf)
